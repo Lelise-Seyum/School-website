@@ -1,4 +1,7 @@
 # School Website 🌐
+## 🌐 Live Demo
+Check it out here: [school-site-ebadev.vercel.app](https://lelise-school-website-git-main-lelise-seyums-projects.vercel.app/)
+
 
 A responsive frontend website built with React and Vite to showcase school information, announcements, and student resources. Designed for clarity, accessibility, and ease of use.
 

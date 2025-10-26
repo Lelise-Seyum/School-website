@@ -1,16 +1,31 @@
-# React + Vite
+# School Website 🌐
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A responsive frontend website built with React and Vite to showcase school information, announcements, and student resources. Designed for clarity, accessibility, and ease of use.
 
-Currently, two official plugins are available:
+## 🔧 Tech Stack
+- React
+- Vite
+- JavaScript
+- CSS
+- Git
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## ✨ Features
+- Homepage with school overview
+- Sections for announcements, contact info, and student resources
+- Responsive layout for desktop and mobile
+- Clean navigation and user-friendly design
 
-## React Compiler
+## 📚 Lessons Learned
+- Strengthened React component structure and routing
+- Practiced responsive design and layout techniques
+- Gained confidence pushing local projects to GitHub
 
-The React Compiler is not enabled on this template. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 About Me
+I'm a self-taught frontend developer passionate about building thoughtful web experiences. I love documenting my wins and lessons, blending creativity with code to make my journey accessible and inspiring. Always curious and community-driven, I bring resilience, resourcefulness, and a growth mindset to every project.
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📦 Installation
+```bash
+git clone https://github.com/Lelise-Seyum/School-website.git
+cd School-website
+npm install
+npm run dev
